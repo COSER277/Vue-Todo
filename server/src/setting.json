@@ -1,0 +1,14 @@
+{
+    "development": {
+        "HOST": "localhost",
+        "PORT": 3333
+    },
+    "test": {
+        "HOST": "localhost",
+        "PORT": 3333
+    },
+    "production": {
+        "HOST": "",
+        "PORT": 3333
+    }
+}
