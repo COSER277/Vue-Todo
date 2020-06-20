@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "123",
+    "password": "",
     "database": "todo_development",
     "host": "127.0.0.1",
     "dialect": "mysql",
@@ -9,7 +9,7 @@
   },
   "test": {
     "username": "root",
-    "password": "123",
+    "password": "",
     "database": "todo_test1",
     "host": "127.0.0.1",
     "dialect": "mysql",
